@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerItemSwipping</string>
+    <string name="intent_data">Data</string>
+</resources>
