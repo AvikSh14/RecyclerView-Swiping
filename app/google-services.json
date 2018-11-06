@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "805563165138",
+    "firebase_url": "https://recycleritemswipping.firebaseio.com",
+    "project_id": "recycleritemswipping",
+    "storage_bucket": "recycleritemswipping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805563165138:android:942b93812216bf8c",
+        "android_client_info": {
+          "package_name": "com.avik.recycleritemswipping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805563165138-5hg3e6a6qkbvd4192jmou2shnd4tggbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avik.recycleritemswipping",
+            "certificate_hash": "6c3cb575945eb5b8a5a4d66d2b333f565930b04e"
+          }
+        },
+        {
+          "client_id": "805563165138-c7g5j9j6e6qmepm9khsqc7mavsusl00d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgaVmZjVO94xqqfY_cpUGJ8MyS0AdU-bk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805563165138-c7g5j9j6e6qmepm9khsqc7mavsusl00d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

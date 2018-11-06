@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">RecyclerItemSwipping</string>
     <string name="intent_data">Data</string>
-    <string name="item">item</string>
+    <string name="item">আইটেম</string>
 </resources>
